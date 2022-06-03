@@ -1,8 +1,10 @@
-# Class-Animal
+## Class-Animal
 OPP exercise executed in the june 2nd / 2022 national PLD 
 
-Class Animals
+# Class Animals
+
 subclass aquatic
+
 subclass terrestrial
 
 2 animals of each subclass
