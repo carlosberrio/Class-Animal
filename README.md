@@ -1,5 +1,5 @@
 # Class-Animals
-OPP exercise executed in the june 2nd / 2022 national PLD 
+OPP exercise executed in the june 2nd / 2022 in the national PLD 
 
 ## Class Animals
 
